@@ -2,7 +2,8 @@
 
 Generate AI images using DALL-E API and share your image with the community and download your favorite image.
 
-Tech Stack: Node.js, React.js, Tailwind CSS, MongoDB, OpenAI API
+Tech Stack: Node.js, React.js, Tailwind CSS, MongoDB, OpenAI API, Vite
+Server Host: Render
 
 
 ![Screenshot 2023-07-18 123927](https://github.com/tanishgoyal07/AI-Image-Generation/assets/94990169/acafce18-b5ac-4ce8-85e5-3e93d661ac6c)
