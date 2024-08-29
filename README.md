@@ -1,4 +1,4 @@
-# AI-Image-Generation
+# ArtifyAI - AI-Image-Generation
 
 Generate AI images using DALL-E API and share your image with the community and download your favorite image.
 
